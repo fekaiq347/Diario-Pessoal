@@ -211,20 +211,30 @@ e irá gravar a nova senha no mesmo arquivo. Tudo isso ocorrerá com o uso da
 função `void atualizarSenha`.
 
 ---
-## **Casos de testes projetados após a implementação do programa:**
+## Conclusão
 
-  Após todo o processo de produção do programa, com o código final
-pronto, foi hora de testá-lo. Para isso, o grupo estabeleceu uma bateria de testes
-que contemplavam todos os cenários possíveis de utilização por parte do
-usuário, e por conseguinte, denunciariam quaisquer erros existentes no código
-final.
+  Após todo o processo de criação da solução, desde sua idealização até os
+testes da implementação final, o grupo obteve um programa funcional e sem
+erros. Durante todo o processo, o grupo precisou se comunicar, trabalhar como
+um time e superar as dificuldades encontradas no caminho, a fim de entregar o
+trabalho funcional e no prazo estipulado.
+  Sendo assim, o trabalho final da disciplina foi de extrema importância,
+pois, além de desenvolver as hard skills dos alunos ao consolidar toda a teoria
+ensinada pela Profa. Giseli através de uma implementação de um programa
+funcional, também serviu para desenvolver as chamadas soft skills dos mesmos,
+ao engajá-los em um projeto que só seria possível de ser realizado em grupo,
+com colaboração mútua e comunicação entre os membros. Por último, o
+trabalho também auxiliou no desenvolvimento de habilidades pessoais, como a
+resiliência, necessária para superar as dificuldades encontradas, a
+responsabilidade com prazos e proatividade.
+  Portanto, todos os integrantes do grupo reiteram a contribuição do
+trabalho final da disciplina com o desenvolvimento de conhecimentos
+necessários à vida acadêmica e profissional, e o reforçam como uma experiência
+enriquecedora.
 
-  Abaixo, segue a tabela dos testes, contendo o teste, sua descrição e o seu
-respectivo resultado esperado:
 
-Teste | Descrição | Resultado Esperado
-: --- : |  : ---- : | : --- : 
-1º | Compilar o arquivo principal **main.c** | Arquivo compilado, sem erros ou avisos.
+
+
 
 
 
